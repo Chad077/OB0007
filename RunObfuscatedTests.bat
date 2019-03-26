@@ -1,3 +1,5 @@
+copy ".\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.*.dll" ".\Tests\bin\Debug\BabelOut\"
+
 :loop
 
 set test="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestPlatform\vstest.console.exe"
