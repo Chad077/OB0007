@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{E1E548F6-44A0-4138-8007-C8C65CF77C1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{825297A7-8826-4DF5-B286-83E4FC6BD1C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{69E0485F-BE33-4848-82C6-9EF631B4D51E}"
+	ProjectSection(SolutionItems) = preProject
+		OB0007_Error.babel = OB0007_Error.babel
+		RunObfuscatedTests.bat = RunObfuscatedTests.bat
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1E548F6-44A0-4138-8007-C8C65CF77C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E548F6-44A0-4138-8007-C8C65CF77C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E548F6-44A0-4138-8007-C8C65CF77C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E548F6-44A0-4138-8007-C8C65CF77C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{825297A7-8826-4DF5-B286-83E4FC6BD1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{825297A7-8826-4DF5-B286-83E4FC6BD1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{825297A7-8826-4DF5-B286-83E4FC6BD1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{825297A7-8826-4DF5-B286-83E4FC6BD1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77C0337E-D2FB-4A41-9CD5-8FAC9F1B4D88}
+	EndGlobalSection
+EndGlobal
