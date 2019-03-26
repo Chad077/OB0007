@@ -1,12 +1,4 @@
-﻿// ------------------------------------------------------------------------------ 
-// Main - Tests - UnitTest1.cs
-// 2019/03/26  -  tjl
-// Rather have things you don't need than things you need that you don't have. 5/7/2013
-// A complex system can only be "practically perfect" or "perfectly practical" but never perfect and practical. 30/11/2015
-// Copyright(c) 2012-2019 - T Liebenberg - Union Software Ltd
-// ------------------------------------------------------------------------------ 
-
-namespace Tests
+﻿namespace Tests
 {
 	using Main;
 	using Microsoft.VisualStudio.TestTools.UnitTesting;
